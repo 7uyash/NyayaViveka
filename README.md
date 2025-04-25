@@ -42,20 +42,4 @@ Ask legal questions and receive answers powered by Hugging Face’s QA model `de
 
 ---
 
-## 📦 Project Structure
 
-```bash
-NyayaViveka/
-├── pages/
-│   ├── index.js                 # Landing page
-│   ├── document-analysis.js     # Document Analysis module
-│   ├── legal-research.js        # Legal Research module
-│   └── interactive-guidance.js  # Interactive AI QnA
-├── components/
-│   ├── FeatureCard.jsx
-│   ├── FileUpload.jsx
-│   └── SearchResults.jsx
-├── public/
-├── styles/
-├── README.md
-└── ...
